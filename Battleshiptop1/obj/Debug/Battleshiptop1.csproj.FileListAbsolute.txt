@@ -1,0 +1,10 @@
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\bin\Debug\Battleshiptop1.exe.config
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\bin\Debug\Battleshiptop1.exe
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\bin\Debug\Battleshiptop1.pdb
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.csprojResolveAssemblyReference.cache
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.Form1.resources
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.Properties.Resources.resources
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.csproj.GenerateResource.Cache
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.csproj.CoreCompileInputs.cache
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.exe
+C:\Users\User_PC\Documents\PP2\Student\Battleshiptop1\Battleshiptop1\obj\Debug\Battleshiptop1.pdb
